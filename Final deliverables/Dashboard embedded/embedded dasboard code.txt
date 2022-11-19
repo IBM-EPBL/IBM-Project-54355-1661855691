@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>demo</title>
+</head>
+<body bgcolor="#D8F8F7 ">
+	<h1 align="center"><b>Retail Store Stock Inventory Management</b> </h1> 
+<hr>	
+	<h2><b>Dashboard </b></h2>
+	<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FDashboard%2B1&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018488ffd7b5_00000000" width="1300" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen="">
+</iframe>
+</body>
+</html>
